@@ -1,0 +1,22 @@
+﻿  HexBoard.cpp
+E:\Program Files\VisualStudio2022Com\VC\Tools\MSVC\14.32.31326\include\utility(247,16): warning C4244: “初始化”: 从“_Ty”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+E:\c_workspace\hex_week4\HexBoard.cpp(225): message : 查看对正在编译的函数 模板 实例化“std::pair<int,int>::pair<__int64,__int64,0>(std::pair<__int64,__int64> &&) noexcept”的引用
+E:\c_workspace\hex_week4\HexBoard.cpp(225): message : 查看对正在编译的函数 模板 实例化“std::pair<int,int>::pair<__int64,__int64,0>(std::pair<__int64,__int64> &&) noexcept”的引用
+E:\Program Files\VisualStudio2022Com\VC\Tools\MSVC\14.32.31326\include\utility(247,61): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  hex_week4.vcxproj -> E:\c_workspace\hex_week4\x64\Debug\hex_week4.exe
